@@ -217,9 +217,11 @@ import UIKit
             self.service.fetchParticipants(groupId: self.chatGroup.groupId, cursor: self.cursor, pageSize: self.pageSize) { [weak self] result, error in
                 guard let `self` = self else { return }
                 if error == nil {
-                    if let list = result?.list {
+                    if var list = result?.list as? [String] {
                         if self.cursor.isEmpty {
                             self.participants.removeAll()
+                            // fix the bug that the owner is not displayed in the list
+                            list.append(contentsOf: self.chatGroup.adminList)
                             self.participants = list.map({
                                 let profile = ChatUserProfile()
                                 let id = $0 as String
