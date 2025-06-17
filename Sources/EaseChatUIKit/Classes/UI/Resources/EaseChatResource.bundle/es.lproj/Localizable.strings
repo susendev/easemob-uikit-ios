@@ -1,223 +1,175 @@
-"Send"="发送es";
-"Sent" = "已发送es";
-"Joined"="已加入es";
-"Search" = "搜索es";
-"Added"="添加了es";
-
-"Post Success" = "发布成功es";
-"Post Failed" = "发布失败es";
-
-
-"Welcome to " = "欢迎来到es";
-
-"Joined successful!" = "加入成功es";
-"Join IM failed!" = "加入聊天室失败es";
-
-"Notice Posted"="公告已发布es";
-
-"Joined" = "已加入es";
-
-"Content prohibited" = "内容禁止发送es";
-"You were kicked out of the chatroom" = "您已经被踢出聊天室es";
-"StartChat" = "说点什么es";
-
-"message doesn't exist" = "消息不存在es";
-"Replying" = "回复 es";
-"Violation options" = "违规选项es";
-"barrage_long_press_menu_translate" = "翻译es";
-"barrage_long_press_menu_delete" = "删除es";
-"barrage_long_press_menu_recall" = "撤回es";
-"barrage_long_press_menu_reply" = "回复es";
-"barrage_long_press_menu_report" = "举报es";
-"barrage_long_press_menu_show_original_text" = "隐藏译文es";
-"barrage_long_press_menu_multi_select" = "多选es";
-"barrage_long_press_menu_topic" = "创建话题es";
-"Topic" = "话题es";
-"barrage_long_press_menu_forward" = "转发es";
-"barrage_long_press_menu_cancel" = "取消es";
-"barrage_long_press_menu_edit" = "编辑es";
-"barrage_long_press_menu_copy" = "复制es";
-"barrage_long_press_menu_cancel" = "取消es";
-"barrage_long_press_menu_pin" = "置顶es";
-
-"report_button_click_menu_button_cancel" = "取消es";
-"Confirm" = "确认es";
-"Editing" = "编辑中es";
-"Edited" = "已编辑es";
-"Translated" = "已翻译es";
-"Mentioned" = "有人@你es";
-"recalled a message" = "撤回了一条消息es";
-
-"Chat" = "发消息es";
-
-"participant_list_title" = "成员列表es";
-
-"Ban List" = "禁言列表es";
-
-"violation_reason_1" = "不受欢迎的商业内容或垃圾内容es";
-"violation_reason_2" = "色情或露骨内容es";
-"violation_reason_3" = "虐待儿童es";
-"violation_reason_4" = "仇恨言论或过于写实的暴力内容es";
-"violation_reason_5" = "宣扬恐怖主义es";
-"violation_reason_6" = "骚扰或欺凌es";
-"violation_reason_7" = "自杀或自残es";
-"violation_reason_8" = "虚假信息es";
-"violation_reason_9" = "其他es";
-"Search" = "搜索es";
-"participant_list_button_click_menu_remove" = "移除es";
-"Your were muted!" = "您已被禁言es";
-"new messages" = "条新消息es";
-"You have added" = "你已经添加了es";
-"to say hello" = "打个招呼吧!es";
-"message doesn't exist" = "消息不存在!es";
-"Add Contact" = "添加联系人es";
-"Copied" = "已复制es";
-
-"Create" = "创建es";
-"Contact" = "联系人es";
-"Add" = "添加es";
-"Remove" = "删除es";
-"NewRequestDetail" = "请求添加您为好友es";
-"Groups" = "群聊es";
-"NewRequest" = "新请求es";
-
-"contactID" = "通过ID添加联系人es";
-
-"new_chat_button_click_menu_addcontacts" = "添加联系人es";
-"new_chat_button_click_menu_creategroup" = "创建群组es";
-"new_chat_button_click_menu_selectcontacts" = "发起会话es";
-
-"remove_participants" = "删除成员es";
-"group_delete_members_alert" = "你确定删除这es";
-"group members" = "群成员es";
-"group_details_button_members" = "群成员es";
-"group_details_button_alias" = "我在本群的昵称es";
-"group_details_switch_donotdisturb" = "消息免打扰es";
-"group_details_button_clearchathistory" = "清空聊天记录es";
-"group_details_button_name" = "群名称es";
-"group_details_button_description" = "群描述es";
-"group_details_button_announcement" = "群公告es";
-"group_details_extend_button_transfer" = "转移群主es";
-"group_mention_title" = "@提及es";
-"group_details_extend_button_disband" = "解散群组es";
-"group_details_extend_button_disband_alert_title" = "解散群组es";
-"group_details_extend_button_disband_alert_subtitle" = "解散群会删除所有成员es";
-"group_details_extend_button_leave" = "退出群聊es";
-"group_details_extend_button_leave_alert_title" = "退出群聊es";
-"group_details_extend_button_leave_alert_subtilte" = "退出群聊将清空消息记录以及会话es";
-"Reach content character limit." = "超出最大字符数限制es";
-"Group was disabled" = "此群已被禁用es";
-"Group" = "群组es";
-"has been created." = "创建成功es";
-"Save" = "保存es";
-"Please input" = "请输入es";
-"New Message" = "新消息es";
-"New Request" = "新请求es";
-"Joined Groups" = "群组es";
-
-
-"add_contacts_subtitle" = "通过用户ID添加联系人es";
-"add_group_members" = "添加群成员es";
-
-"conversation_left_slide_menu_delete" = "删除es";
-"conversation_left_slide_menu_pin" = "置顶es";
-"conversation_left_slide_menu_unpin" = "取消置顶es";
-"conversation_left_slide_menu_mute" = "接受通知es";
-"conversation_left_slide_menu_unmute" = "关闭通知es";
-"conversation_right_slide_menu_read" = "标记已读es";
-"conversation_right_slide_menu_more" = "更多es";
-
-"contact_details_switch_donotdisturb" = "消息免打扰es";
-"contact_details_switch_block" = "拉黑es";
-"contact_details_button_clearchathistory" = "清空聊天记录es";
-
-"contact_details_extend_button_delete" = "删除联系人es";
-"contact_details_extend_button_delete_alert_subtitle" = "删除联系人同时删除历史消息es";
-"contact_details_extend_button_delete_alert_button_confirm" = "确定es";
-"contact_details_extend_button_delete_alert_button_cancel" = "取消es";
-"group_details_extend_button_disband_alert_button_cancel" = "取消es";
-"contact_details_extend_button_cancel" = "取消es";
-
-"remaining..." = "后停止es";
-
-
-"permissions disable" = "权限不可用es";
-
-"camera_disable" = "相机权限未开启es";
-
-"photo_disable" = "相册权限未开启es";
-
-"file_disable" = "文件权限未开启es";
-
-"input_extension_menu_photo" = "相册es";
-
-"input_extension_menu_camera" = "相机es";
-
-"input_extension_menu_file" = "文件es";
-
-"input_extension_menu_contact" = "个人名片es";
-
-"remaining" = "后停止es";
-
-"Record" = "录音es";
-
-"Recording" = "正在录音es";
-
-"Play" = "播放es";
-
-"Playing" = "正在播放es";
-
-"Loading..." = "加载中...es";
-"Share Contact" = "分享联系人es";
-"Sharing contact?" = "确认分享联系人?es";
-
-"[unknown]" = "[未知]es";
-"[Image]" = "[图片]es";
-"[Audio]" = "[音频]es";
-"[Video]" = "[视频]es";
-"[File]" = "[文件]es";
-"[Location]" = "[位置]es";
-"Chat History" = "聊天记录es";
-"[Transparent]" = "[透传消息]es";
-"[Contact]" = "[个人名片]es";
-"[Alert]" = "[提醒]es";
-"No Messages" = "暂无消息es";
-"CreateThreadAlert" = "创建了一个话题!es";
-"Group were destroyed." = "群聊已被销毁es";
-"thread_name" = "话题名称es";
-"topic_members" = "话题成员es";
-" messages" = "条消息es";
-"AudioCall" = "音频通话es";
-"VideoCall" = "视频通话es";
-"SearchMessages" = "搜索消息es";
-" to " = "给es";
-
-"UserId" = "ID:es";
-"Chats" = "会话es";
-"Typing..." = "正在输入中...es";
-"block_list" = "黑名单es";
-"block alert" = "确认拉黑联系人es";
-
-"block" = "拉黑es";
-"unblock" = "解除拉黑es";
-"block contact" = "拉黑联系人es";
-"Confirm Remove" = "确认删除es";
-"Sticky Message" = "置顶消息es";
-"pinned a message" = "置顶了一条消息es";
-"unpinned a message" = "移除了一条置顶消息es";
-
-"Parsing..." = "解析中...es";
-
-"Pin Messages" = "条置顶消息es";
-"succeeded" = "成功es";
-"failed" = "失败es";
-"No pinned messages" = "暂无置顶消息es";
-"Please select greater than one message." = "请至少选择一条消息es";
-
-
-
-"Delete Conversation Alert" = "删除此会话?es";
-
-"Delete Message Alert" = "删除此消息?es";
-
-"Delete warning" = "删除后不可恢复es";
+"Send" = "Enviar";
+"Sent" = "Enviado";
+"Joined" = "Unido";
+"Search" = "Buscar";
+"Added" = "Añadido";
+"Post Success" = "Publicación exitosa";
+"Post Failed" = "Error al publicar";
+"Welcome to" = "Bienvenido a";
+"Joined successful!" = "¡Unido correctamente!";
+"Join IM failed!" = "¡Error al unirse al chat!";
+"Notice Posted" = "Aviso publicado";
+"Joined" = "Unido";
+"Content prohibited" = "Contenido prohibido";
+"You were kicked out of the chatroom" = "Has sido expulsado del chat";
+"StartChat" = "Di algo";
+"message doesn't exist" = "El mensaje no existe";
+"Replying" = "Responder";
+"Violation options" = "Opciones de violación";
+"barrage_long_press_menu_translate" = "Traducir";
+"barrage_long_press_menu_delete" = "Eliminar";
+"barrage_long_press_menu_recall" = "Retirar";
+"barrage_long_press_menu_reply" = "Responder";
+"barrage_long_press_menu_report" = "Reportar";
+"barrage_long_press_menu_show_original_text" = "Ocultar traducción";
+"barrage_long_press_menu_multi_select" = "Selección múltiple";
+"barrage_long_press_menu_topic" = "Crear tema";
+"Topic" = "Tema";
+"barrage_long_press_menu_forward" = "Reenviar";
+"barrage_long_press_menu_cancel" = "Cancelar";
+"barrage_long_press_menu_edit" = "Editar";
+"barrage_long_press_menu_copy" = "Copiar";
+"barrage_long_press_menu_cancel" = "Cancelar";
+"barrage_long_press_menu_pin" = "Anclar";
+"report_button_click_menu_button_cancel" = "Cancelar";
+"Confirm" = "Confirmar";
+"Editing" = "Editando";
+"Edited" = "Editado";
+"Translated" = "Traducido";
+"Mentioned" = "Alguien te @mencionó";
+"recalled a message" = "Retiró un mensaje";
+"Chat" = "Enviar mensaje";
+"participant_list_title" = "Lista de miembros";
+"Ban List" = "Lista de silenciados";
+"violation_reason_1" = "Contenido comercial no deseado o spam";
+"violation_reason_2" = "Contenido pornográfico o explícito";
+"violation_reason_3" = "Abuso infantil";
+"violation_reason_4" = "Discurso de odio o violencia demasiado realista";
+"violation_reason_5" = "Promoción del terrorismo";
+"violation_reason_6" = "Acoso o intimidación";
+"violation_reason_7" = "Suicidio o autolesión";
+"violation_reason_8" = "Desinformación";
+"violation_reason_9" = "Otro";
+"Search" = "Buscar";
+"participant_list_button_click_menu_remove" = "Eliminar";
+"Your were muted!" = "Has sido silenciado";
+"new messages" = "nuevo(s) mensaje(s)";
+"You have added" = "Has añadido";
+"to say hello" = "¡Saluda!";
+"message doesn't exist" = "¡El mensaje no existe!";
+"Add Contact" = "Añadir contacto";
+"Copied" = "Copiado";
+"Create" = "Crear";
+"Contact" = "Contacto";
+"Add" = "Añadir";
+"Remove" = "Eliminar";
+"NewRequestDetail" = "Solicitud de amistad";
+"Groups" = "Grupo de chat";
+"NewRequest" = "Nueva solicitud";
+"contactID" = "Añadir contacto por ID";
+"new_chat_button_click_menu_addcontacts" = "Añadir contacto";
+"new_chat_button_click_menu_creategroup" = "Crear grupo";
+"new_chat_button_click_menu_selectcontacts" = "Iniciar conversación";
+"remove_participants" = "Eliminar miembros";
+"group_delete_members_alert" = "¿Confirmas eliminar";
+"group members" = "Miembros del grupo";
+"group_details_button_members" = "Miembros del grupo";
+"group_details_button_alias" = "Mi apodo en este grupo";
+"group_details_switch_donotdisturb" = "No molestar";
+"group_details_button_clearchathistory" = "Borrar historial";
+"group_details_button_name" = "Nombre del grupo";
+"group_details_button_description" = "Descripción del grupo";
+"group_details_button_announcement" = "Anuncio del grupo";
+"group_details_extend_button_transfer" = "Transferir propiedad";
+"group_mention_title" = "@Mencionar";
+"group_details_extend_button_disband" = "Disolver grupo";
+"group_details_extend_button_disband_alert_title" = "Disolver grupo";
+"group_details_extend_button_disband_alert_subtitle" = "Disolver elimina a todos los miembros";
+"group_details_extend_button_leave" = "Salir del grupo";
+"group_details_extend_button_leave_alert_title" = "Salir del grupo";
+"group_details_extend_button_leave_alert_subtilte" = "Al salir de un chat grupal, se borrará el historial de mensajes y la conversación";
+"Reach content character limit." = "Límite de caracteres excedido";
+"Group was disabled" = "Este grupo está deshabilitado";
+"Group" = "Grupo";
+"has been created." = "Creado con éxito";
+"Save" = "Guardar";
+"Please input" = "Por favor ingrese";
+"New Message" = "Nuevo mensaje";
+"New Request" = "Nueva solicitud";
+"Joined Groups" = "Grupo";
+"add_contacts_subtitle" = "Añadir contacto por ID de usuario";
+"add_group_members" = "Añadir miembros";
+"conversation_left_slide_menu_delete" = "Eliminar";
+"conversation_left_slide_menu_pin" = "Anclar";
+"conversation_left_slide_menu_unpin" = "Desanclar";
+"conversation_left_slide_menu_mute" = "Recibir notificaciones";
+"conversation_left_slide_menu_unmute" = "Desactivar notificaciones";
+"conversation_right_slide_menu_read" = "Marcar como leído";
+"conversation_right_slide_menu_more" = "Más";
+"contact_details_switch_donotdisturb" = "No molestar";
+"contact_details_switch_block" = "Bloquear";
+"contact_details_button_clearchathistory" = "Borrar historial";
+"contact_details_extend_button_delete" = "Eliminar contacto";
+"contact_details_extend_button_delete_alert_subtitle" = "Eliminar contacto e historial";
+"contact_details_extend_button_delete_alert_button_confirm" = "Confirmar";
+"contact_details_extend_button_delete_alert_button_cancel" = "Cancelar";
+"group_details_extend_button_disband_alert_button_cancel" = "Cancelar";
+"contact_details_extend_button_cancel" = "Cancelar";
+"remaining..." = "Detenerse en";
+"permissions disable" = "Permisos no disponibles";
+"camera_disable" = "Permiso de cámara desactivado";
+"photo_disable" = "Permiso de álbum desactivado";
+"file_disable" = "Permiso de archivo desactivado";
+"input_extension_menu_photo" = "Álbum";
+"input_extension_menu_camera" = "Cámara";
+"input_extension_menu_file" = "Archivo";
+"input_extension_menu_contact" = "Tarjeta de visita";
+"remaining" = "Detenerse en";
+"Record" = "Grabación";
+"Recording" = "Grabando";
+"Play" = "Reproducir";
+"Playing" = "Reproduciendo";
+"Loading..." = "Cargando...";
+"Share Contact" = "Compartir contacto";
+"Sharing contact?" = "¿Confirmar compartir contacto?";
+"[unknown]" = "[Desconocido]";
+"[Image]" = "[Imagen]";
+"[Audio]" = "[Audio]";
+"[Video]" = "[Video]";
+"[File]" = "[Archivo]";
+"[Location]" = "[Ubicación]";
+"Chat History" = "Historial de chat";
+"[Transparent]" = "[Mensaje transparente]";
+"[Contact]" = "[Tarjeta de visita]";
+"[Alert]" = "[Alerta]";
+"No Messages" = "Sin mensajes";
+"CreateThreadAlert" = "¡Se creó un tema!";
+"Group were destroyed." = "El chat grupal fue destruido";
+"thread_name" = "Nombre del tema";
+"topic_members" = "Miembros del tema";
+"messages" = "mensaje(s)";
+"AudioCall" = "Llamada de audio";
+"VideoCall" = "Llamada de video";
+"SearchMessages" = "Buscar mensajes";
+"to" = "A";
+"UserId" = "ID:";
+"Chats" = "Chat";
+"Typing..." = "Escribiendo...";
+"block_list" = "Lista negra";
+"block alert" = "Confirmar bloqueo de contacto";
+"block" = "Bloquear";
+"unblock" = "Desbloquear";
+"block contact" = "Bloquear contacto";
+"Confirm Remove" = "Confirmar eliminación";
+"Sticky Message" = "Mensaje anclado";
+"pinned a message" = "Ancló un mensaje";
+"unpinned a message" = "Desancló un mensaje";
+"Parsing..." = "Analizando...";
+"Pin Messages" = "mensaje(s) anclado(s)";
+"succeeded" = "Éxito";
+"failed" = "Fracaso";
+"No pinned messages" = "Sin mensajes anclados";
+"Please select greater than one message." = "Seleccione al menos un mensaje";
+"Delete Conversation Alert" = "¿Eliminar esta conversación?";
+"Delete Message Alert" = "¿Eliminar este mensaje?";
+"Delete warning" = "Eliminación irreversible";

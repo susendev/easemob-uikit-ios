@@ -2,27 +2,16 @@
 "Send" = "Send";
 "Joined"="Joined";
 "Added"="Added";
-
-
 "Post Success" = "Post Success";
 "Post Failed" = "Post Failed";
-
-
 "Welcome to" = "Welcome to";
-
 "Joined successful!" = "Joined successful!";
 "Join IM failed!" = "join IM failed!";
-
 "Notice Posted"="Notice Posted";
-
 "Joined" = "Joined";
-
 "Content prohibited" = "Content prohibited";
-
 "StartChat" = "Let's chat";
-
 "Violation options" = "Violation options";
-
 "message doesn't exist" = "message doesn't exist";
 "Replying" = "Replying ";
 "barrage_long_press_menu_translate" = "Trans";
@@ -67,7 +56,6 @@
 "to say hello" = "to say hello.";
 "message doesn't exist" = "message doesn't exist";
 "Add Contact" = "Add Contact";
-
 "Contact" = "Contacts";
 "Add" = "Add";
 "NewRequestDetail" = "request to add you as a friend";
@@ -83,7 +71,6 @@
 "new_chat_button_click_menu_creategroup" = "Create a Group";
 "new_chat_button_click_menu_selectcontacts" = "New Chat";
 "New Message" = "New Message";
-
 "remove_participants" = "Remove participants";
 "Remove" = "Remove";
 "group_details_button_members" = "Participants";
@@ -113,9 +100,7 @@
 "Please input" = "Please input";
 "Group" = "Group";
 "has been created." = "has been created.";
-
 "add_contacts_subtitle" = "Add Contacts by ID";
-
 "conversation_left_slide_menu_delete" = "Delete";
 "conversation_left_slide_menu_pin" = "Pin";
 "conversation_left_slide_menu_unpin" = "Unpin";
@@ -123,52 +108,31 @@
 "conversation_left_slide_menu_unmute" = "Unmute";
 "conversation_right_slide_menu_read" = "Read";
 "conversation_right_slide_menu_more" = "More";
-
 "contact_details_switch_donotdisturb" = "Do not disturb";
 "contact_details_switch_block" = "Block";
 "contact_details_button_clearchathistory" = "Clear chat history";
-
-
 "contact_details_extend_button_delete" = "Delete contact";
 "contact_details_extend_button_delete_alert_subtitle" = "Deleting a contact will also delete the chat history.";
 "contact_details_extend_button_delete_alert_button_confirm" = "Confirm";
 "contact_details_extend_button_delete_alert_button_cancel" = "Cancel";
 "contact_details_extend_button_cancel" = "Cancel";
-
-
 "remaining..." = "remaining...";
-
 "permissions disable" = "Permissions Disabled";
-
 "camera_disable" = "Camera permission is not enabled";
-
 "photo_disable" = "Photo library permission is not enabled";
-
 "file_disable" = "File permissions are not enabled";
-
 "input_extension_menu_photo" = "Photo";
-
 "input_extension_menu_camera" = "Camera";
-
 "input_extension_menu_file" = "File";
-
 "input_extension_menu_contact" = "Card";
-
 "remaining" = "remaining";
-
 "Record" = "Record";
-
 "Recording" = "Recording";
-
 "Play" = "Play";
-
 "Playing" = "Playing";
-
 "Loading..." = "Loading...";
-
 "Share Contact" = "Share Contact";
 "Sharing contact?" = "Are you sure you want to share the contact?";
-
 "[unknown]" = "[unknown]";
 "[Image]" = "[Image]";
 "[Audio]" = "[Audio]";
@@ -179,7 +143,6 @@
 "[Transparent]" = "[Transparent]";
 "[Contact]" = "[Contact]";
 "[Alert]" = "[Alert]";
-
 "No Messages" = "No Messages";
 "CreateThreadAlert" = "chat thread created successful!";
 "Group were destroyed." = "Group were destroyed.";
@@ -195,8 +158,6 @@
 "Typing..." = "Typing...";
 "block_list" = "Block List";
 "block alert" = "Conform blocking user ";
-
-
 "block" = "Block";
 "unblock" = "Unblock";
 "block contact" = "Block Contact";
@@ -205,17 +166,11 @@
 "pinned a message" = "pinned a message";
 "unpinned a message" = "unpinned a message";
 "Parsing..." = "Parsing...";
-
-
 "Pin Messages" = "Pin Messages";
-
 "succeeded" = "succeeded";
 "failed" = "failed";
 "No pinned messages" = "No pinned messages";
 "Please select greater than one message." = "Please select greater than one message.";
-
 "Delete Conversation Alert" = "Delete this conversation?";
-
 "Delete Message Alert" = "Delete this message?";
-
 "Delete warning" = "Deletion is irreversible.";
