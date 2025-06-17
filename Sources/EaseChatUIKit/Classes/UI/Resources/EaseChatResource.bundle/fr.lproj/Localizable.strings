@@ -1,0 +1,223 @@
+"Send"="发送fr";
+"Sent" = "已发送fr";
+"Joined"="已加入fr";
+"Search" = "搜索fr";
+"Added"="添加了fr";
+
+"Post Success" = "发布成功fr";
+"Post Failed" = "发布失败fr";
+
+
+"Welcome to " = "欢迎来到fr";
+
+"Joined successful!" = "加入成功fr";
+"Join IM failed!" = "加入聊天室失败fr";
+
+"Notice Posted"="公告已发布fr";
+
+"Joined" = "已加入fr";
+
+"Content prohibited" = "内容禁止发送fr";
+"You were kicked out of the chatroom" = "您已经被踢出聊天室fr";
+"StartChat" = "说点什么fr";
+
+"message doesn't exist" = "消息不存在fr";
+"Replying" = "回复 fr";
+"Violation options" = "违规选项fr";
+"barrage_long_press_menu_translate" = "翻译fr";
+"barrage_long_press_menu_delete" = "删除fr";
+"barrage_long_press_menu_recall" = "撤回fr";
+"barrage_long_press_menu_reply" = "回复fr";
+"barrage_long_press_menu_report" = "举报fr";
+"barrage_long_press_menu_show_original_text" = "隐藏译文fr";
+"barrage_long_press_menu_multi_select" = "多选fr";
+"barrage_long_press_menu_topic" = "创建话题fr";
+"Topic" = "话题fr";
+"barrage_long_press_menu_forward" = "转发fr";
+"barrage_long_press_menu_cancel" = "取消fr";
+"barrage_long_press_menu_edit" = "编辑fr";
+"barrage_long_press_menu_copy" = "复制fr";
+"barrage_long_press_menu_cancel" = "取消fr";
+"barrage_long_press_menu_pin" = "置顶fr";
+
+"report_button_click_menu_button_cancel" = "取消fr";
+"Confirm" = "确认fr";
+"Editing" = "编辑中fr";
+"Edited" = "已编辑fr";
+"Translated" = "已翻译fr";
+"Mentioned" = "有人@你fr";
+"recalled a message" = "撤回了一条消息fr";
+
+"Chat" = "发消息fr";
+
+"participant_list_title" = "成员列表fr";
+
+"Ban List" = "禁言列表fr";
+
+"violation_reason_1" = "不受欢迎的商业内容或垃圾内容fr";
+"violation_reason_2" = "色情或露骨内容fr";
+"violation_reason_3" = "虐待儿童fr";
+"violation_reason_4" = "仇恨言论或过于写实的暴力内容fr";
+"violation_reason_5" = "宣扬恐怖主义fr";
+"violation_reason_6" = "骚扰或欺凌fr";
+"violation_reason_7" = "自杀或自残fr";
+"violation_reason_8" = "虚假信息fr";
+"violation_reason_9" = "其他fr";
+"Search" = "搜索fr";
+"participant_list_button_click_menu_remove" = "移除fr";
+"Your were muted!" = "您已被禁言fr";
+"new messages" = "条新消息fr";
+"You have added" = "你已经添加了fr";
+"to say hello" = "打个招呼吧!fr";
+"message doesn't exist" = "消息不存在!fr";
+"Add Contact" = "添加联系人fr";
+"Copied" = "已复制fr";
+
+"Create" = "创建fr";
+"Contact" = "联系人fr";
+"Add" = "添加fr";
+"Remove" = "删除fr";
+"NewRequestDetail" = "请求添加您为好友fr";
+"Groups" = "群聊fr";
+"NewRequest" = "新请求fr";
+
+"contactID" = "通过ID添加联系人fr";
+
+"new_chat_button_click_menu_addcontacts" = "添加联系人fr";
+"new_chat_button_click_menu_creategroup" = "创建群组fr";
+"new_chat_button_click_menu_selectcontacts" = "发起会话fr";
+
+"remove_participants" = "删除成员fr";
+"group_delete_members_alert" = "你确定删除这fr";
+"group members" = "群成员fr";
+"group_details_button_members" = "群成员fr";
+"group_details_button_alias" = "我在本群的昵称fr";
+"group_details_switch_donotdisturb" = "消息免打扰fr";
+"group_details_button_clearchathistory" = "清空聊天记录fr";
+"group_details_button_name" = "群名称fr";
+"group_details_button_description" = "群描述fr";
+"group_details_button_announcement" = "群公告fr";
+"group_details_extend_button_transfer" = "转移群主fr";
+"group_mention_title" = "@提及fr";
+"group_details_extend_button_disband" = "解散群组fr";
+"group_details_extend_button_disband_alert_title" = "解散群组fr";
+"group_details_extend_button_disband_alert_subtitle" = "解散群会删除所有成员fr";
+"group_details_extend_button_leave" = "退出群聊fr";
+"group_details_extend_button_leave_alert_title" = "退出群聊fr";
+"group_details_extend_button_leave_alert_subtilte" = "退出群聊将清空消息记录以及会话fr";
+"Reach content character limit." = "超出最大字符数限制fr";
+"Group was disabled" = "此群已被禁用fr";
+"Group" = "群组fr";
+"has been created." = "创建成功fr";
+"Save" = "保存fr";
+"Please input" = "请输入fr";
+"New Message" = "新消息fr";
+"New Request" = "新请求fr";
+"Joined Groups" = "群组fr";
+
+
+"add_contacts_subtitle" = "通过用户ID添加联系人fr";
+"add_group_members" = "添加群成员fr";
+
+"conversation_left_slide_menu_delete" = "删除fr";
+"conversation_left_slide_menu_pin" = "置顶fr";
+"conversation_left_slide_menu_unpin" = "取消置顶fr";
+"conversation_left_slide_menu_mute" = "接受通知fr";
+"conversation_left_slide_menu_unmute" = "关闭通知fr";
+"conversation_right_slide_menu_read" = "标记已读fr";
+"conversation_right_slide_menu_more" = "更多fr";
+
+"contact_details_switch_donotdisturb" = "消息免打扰fr";
+"contact_details_switch_block" = "拉黑fr";
+"contact_details_button_clearchathistory" = "清空聊天记录fr";
+
+"contact_details_extend_button_delete" = "删除联系人fr";
+"contact_details_extend_button_delete_alert_subtitle" = "删除联系人同时删除历史消息fr";
+"contact_details_extend_button_delete_alert_button_confirm" = "确定fr";
+"contact_details_extend_button_delete_alert_button_cancel" = "取消fr";
+"group_details_extend_button_disband_alert_button_cancel" = "取消fr";
+"contact_details_extend_button_cancel" = "取消fr";
+
+"remaining..." = "后停止fr";
+
+
+"permissions disable" = "权限不可用fr";
+
+"camera_disable" = "相机权限未开启fr";
+
+"photo_disable" = "相册权限未开启fr";
+
+"file_disable" = "文件权限未开启fr";
+
+"input_extension_menu_photo" = "相册fr";
+
+"input_extension_menu_camera" = "相机fr";
+
+"input_extension_menu_file" = "文件fr";
+
+"input_extension_menu_contact" = "个人名片fr";
+
+"remaining" = "后停止fr";
+
+"Record" = "录音fr";
+
+"Recording" = "正在录音fr";
+
+"Play" = "播放fr";
+
+"Playing" = "正在播放fr";
+
+"Loading..." = "加载中...fr";
+"Share Contact" = "分享联系人fr";
+"Sharing contact?" = "确认分享联系人?fr";
+
+"[unknown]" = "[未知]fr";
+"[Image]" = "[图片]fr";
+"[Audio]" = "[音频]fr";
+"[Video]" = "[视频]fr";
+"[File]" = "[文件]fr";
+"[Location]" = "[位置]fr";
+"Chat History" = "聊天记录fr";
+"[Transparent]" = "[透传消息]fr";
+"[Contact]" = "[个人名片]fr";
+"[Alert]" = "[提醒]fr";
+"No Messages" = "暂无消息fr";
+"CreateThreadAlert" = "创建了一个话题!fr";
+"Group were destroyed." = "群聊已被销毁fr";
+"thread_name" = "话题名称fr";
+"topic_members" = "话题成员fr";
+" messages" = "条消息fr";
+"AudioCall" = "音频通话fr";
+"VideoCall" = "视频通话fr";
+"SearchMessages" = "搜索消息fr";
+" to " = "给fr";
+
+"UserId" = "ID:fr";
+"Chats" = "会话fr";
+"Typing..." = "正在输入中...fr";
+"block_list" = "黑名单fr";
+"block alert" = "确认拉黑联系人fr";
+
+"block" = "拉黑fr";
+"unblock" = "解除拉黑fr";
+"block contact" = "拉黑联系人fr";
+"Confirm Remove" = "确认删除fr";
+"Sticky Message" = "置顶消息fr";
+"pinned a message" = "置顶了一条消息fr";
+"unpinned a message" = "移除了一条置顶消息fr";
+
+"Parsing..." = "解析中...fr";
+
+"Pin Messages" = "条置顶消息fr";
+"succeeded" = "成功fr";
+"failed" = "失败fr";
+"No pinned messages" = "暂无置顶消息fr";
+"Please select greater than one message." = "请至少选择一条消息fr";
+
+
+
+"Delete Conversation Alert" = "删除此会话?fr";
+
+"Delete Message Alert" = "删除此消息?fr";
+
+"Delete warning" = "删除后不可恢复fr";
