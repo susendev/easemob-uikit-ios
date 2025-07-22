@@ -7,6 +7,71 @@
 
 import UIKit
 
+// 调试使用
+/*
+import Combine
+public enum DictionaryChange<Key: Hashable, Value> {
+    case add(key: Key, value: Value)
+    case update(key: Key, value: Value)
+    case remove(key: Key, removedValue: Value)
+    case removeAll
+}
+
+public struct ObservableDictionary<Key: Hashable, Value> {
+    private let subject = PassthroughSubject<DictionaryChange<Key, Value>, Never>()
+    public var publisher: AnyPublisher<DictionaryChange<Key, Value>, Never> {
+        subject.eraseToAnyPublisher()
+    }
+    private var dictionary: [Key: Value]
+    public init(_ dictionary: [Key: Value] = [:]) {
+        self.dictionary = dictionary
+    }
+    public subscript(key: Key) -> Value? {
+        get {
+            dictionary[key]
+        }
+        set {
+            guard let newValue = newValue else {
+                if let removedValue = dictionary.removeValue(forKey: key) {
+                    subject.send(.remove(key: key, removedValue: removedValue))
+                }
+                return
+            }
+            if let _ = dictionary[key] {
+                dictionary[key] = newValue
+                subject.send(.update(key: key, value: newValue))
+            } else {
+                dictionary[key] = newValue
+                subject.send(.add(key: key, value: newValue))
+            }
+        }
+    }
+    @discardableResult
+    public mutating func removeValue(forKey key: Key) -> Value? {
+        if let removedValue = dictionary.removeValue(forKey: key) {
+            subject.send(.remove(key: key, removedValue: removedValue))
+            return removedValue
+        }
+        return nil
+    }
+    public var values: Dictionary<Key, Value>.Values {
+        dictionary.values
+    }
+    public var keys: Dictionary<Key, Value>.Keys {
+        dictionary.keys
+    }
+    public var count: Int {
+        dictionary.count
+    }
+    public func getValue(forKey key: Key) -> Value? {
+        dictionary[key]
+    }
+    public mutating func removeAll() {
+        dictionary.removeAll()
+        subject.send(.removeAll)
+    }
+}
+*/
 @objc public enum EaseChatUIKitCacheType: UInt {
     case all
     case chat
@@ -49,7 +114,57 @@ import UIKit
     
     /// The first parameter is the group id and the second parameter is the group name.
     public var onGroupNameUpdated: ((String,String) -> Void)?
+
+    /*   
+    private var cancellables = Set<AnyCancellable>()
+
+    public var chatCache: ObservableDictionary<String,ChatUserProfileProtocol>? = ObservableDictionary<String,ChatUserProfileProtocol>()
     
+    public var userCache: ObservableDictionary<String,ChatUserProfileProtocol>? = ObservableDictionary<String,ChatUserProfileProtocol>()
+    
+    public var groupCache: ObservableDictionary<String,ChatUserProfileProtocol>? = ObservableDictionary<String,ChatUserProfileProtocol>()
+
+    public override init() {
+        super.init()
+        if #available(iOS 14.0, *) {
+            userCache?.publisher
+                .sink { change in
+                    print("--- ObservableDictionary 监听到变化 ---")
+                    switch change {
+                    case .add(let key, let value):
+                        print("✅ userCache 新增用户: Key = \(key), Value = \(value.nickname) | \(value.avatarURL)")
+                    case .update(let key, let value):
+                        print("🔄 userCache 更新用户: Key = \(key), Value = \(value.nickname) | \(value.avatarURL)")
+                    case .remove(let key, let value):
+                        print("❌ userCache 移除用户: Key = \(key),  Value = \(value.nickname) | \(value.avatarURL)")
+                    case .removeAll:
+                        print("❌ userCache 移除用户: removeAll")
+                    }
+
+                }
+                .store(in: &cancellables)
+            chatCache?.publisher
+                .sink { change in
+                    print("--- ObservableDictionary 监听到变化 ---")
+                    switch change {
+                    case .add(let key, let value):
+                        print("✅ chatCache 新增用户: Key = \(key), Value = \(value.nickname) | \(value.avatarURL)")
+                    case .update(let key, let value):
+                        print("🔄 chatCache 更新用户: Key = \(key), Value = \(value.nickname) | \(value.avatarURL)")
+                    case .remove(let key, let value):
+                        print("❌ chatCache 移除用户: Key = \(key),  Value = \(value.nickname) | \(value.avatarURL)")
+                    case .removeAll:
+                        print("❌ chatCache 移除用户: removeAll")
+                    }
+
+                }
+                .store(in: &cancellables)
+        } else {
+            // Fallback on earlier versions
+        }
+
+    }
+    */
     
     /// Clean the cache of ``EaseChatUIKitCacheType`` type
     /// - Parameter type: ``EaseChatUIKitCacheType``
