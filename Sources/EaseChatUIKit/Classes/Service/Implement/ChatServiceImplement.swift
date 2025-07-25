@@ -115,6 +115,10 @@ extension ChatServiceImplement: ChatService {
         if ChatUIKitContext.shared?.chatCache == nil {
             ChatUIKitContext.shared?.chatCache = [String:ChatUserProfileProtocol]()
         }
+        guard let conversation = ChatClient.shared().chatManager?.getConversationWithConvId(self.to) else {
+            completion(nil, [])
+            return
+        }
         if ChatUIKitClient.shared.option.option_UI.loadLocalHistoryMessages {
             ChatClient.shared().chatManager?.getConversationWithConvId(self.to)?.loadMessagesStart(fromId: messageId, count: Int32(pageSize), searchDirection: searchMessage ? .down:.up,completion: { messages, error in
                 if error == nil,let messages = messages {
