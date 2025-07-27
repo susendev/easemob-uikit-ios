@@ -47,9 +47,10 @@ extension ConversationServiceImplement: ConversationService {
     
     
     public func loadExistConversations() {
-        let items = ChatClient.shared().chatManager?.getAllConversations(true) ?? []
+//        let items = ChatClient.shared().chatManager?.getAllConversations(true) ?? []
         let userId = ChatClient.shared().currentUsername ?? ""
-        if items.count <= 0,!(self.loadFinished[userId] ?? false) {
+        self.loadFinished[userId] = false
+        if !(self.loadFinished[userId] ?? false) {
             let taskGroup = DispatchGroup()
             let queue1 = DispatchQueue(label: "conversations.pin")
             let queue2 = DispatchQueue(label: "conversations")
