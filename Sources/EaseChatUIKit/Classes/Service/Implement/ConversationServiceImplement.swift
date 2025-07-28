@@ -240,15 +240,18 @@ extension ConversationServiceImplement: ConversationService {
     
     public func deleteConversation(conversationId: String, completion: @escaping (ChatError?) -> Void) {
         if let conversation = ChatClient.shared().chatManager?.getConversationWithConvId(conversationId) {
-            ChatClient.shared().chatManager?.deleteConversation(conversationId, isDeleteMessages: true, completion: { [weak self] localId, error in
+//            ChatClient.shared().chatManager?.deleteConversation(conversationId, isDeleteMessages: true, completion: { [weak self] localId, error in
+//                ChatUIKitContext.shared?.pinnedCache?.removeValue(forKey: conversationId)
+//                self?.handleResult(error: error, type: .delete)
+//                completion(error)
+//            })
+            ChatClient.shared().chatManager?.deleteServerConversation(conversationId, conversationType: conversation.type, isDeleteServerMessages: false, completion: {  [weak self] localId, error in
                 ChatUIKitContext.shared?.pinnedCache?.removeValue(forKey: conversationId)
                 self?.handleResult(error: error, type: .delete)
                 completion(error)
             })
         }
-        
-    }
-    
+    }    
     public func markAllMessagesAsRead(conversationId: String) {
         let conversation = ChatClient.shared().chatManager?.getConversationWithConvId(conversationId)
         conversation?.markAllMessages(asRead: nil)
