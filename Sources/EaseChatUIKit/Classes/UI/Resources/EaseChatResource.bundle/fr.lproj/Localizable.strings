@@ -147,11 +147,11 @@
 "Group were destroyed." = "Le groupe a été détruit";
 "thread_name" = "Nom du sujet";
 "topic_members" = "Membres du sujet";
-"messages" = "message(s)";
+" messages " = "message(s)";
 "AudioCall" = "Appel audio";
 "VideoCall" = "Appel vidéo";
 "SearchMessages" = "Rechercher des messages";
-"to" = "À";
+" to " = "À";
 "UserId" = "ID:";
 "Chats" = "Chat";
 "Typing..." = "En train de taper...";

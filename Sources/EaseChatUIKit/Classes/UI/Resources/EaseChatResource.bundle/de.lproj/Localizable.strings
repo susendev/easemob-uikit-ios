@@ -120,7 +120,7 @@
 "camera_disable" = "Kameraberechtigung nicht aktiviert";
 "photo_disable" = "Fotoberechtigung nicht aktiviert";
 "file_disable" = "Dateiberechtigung nicht aktiviert";
-"input_extension_menu_photo" = "Fotoalbum";
+"input_extension_menu_photo" = "Foto";
 "input_extension_menu_camera" = "Kamera";
 "input_extension_menu_file" = "Datei";
 "input_extension_menu_contact" = "Persönliche Visitenkarte";
@@ -147,11 +147,11 @@
 "Group were destroyed." = "Gruppenchat wurde gelöscht";
 "thread_name" = "Themenname";
 "topic_members" = "Themenmitglieder";
-"messages" = "Nachrichten";
+" messages " = "Nachrichten";
 "AudioCall" = "Sprachanruf";
 "VideoCall" = "Videoanruf";
 "SearchMessages" = "Nachrichten suchen";
-"to" = "An";
+" to " = "An";
 "UserId" = "ID:";
 "Chats" = "Unterhaltung";
 "Typing..." = "Schreibt...";

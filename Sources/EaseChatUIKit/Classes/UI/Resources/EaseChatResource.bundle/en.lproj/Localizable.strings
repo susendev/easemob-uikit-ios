@@ -1,13 +1,13 @@
-"Sent" = "Sent";
 "Send" = "Send";
+"Sent" = "Sent";
 "Joined"="Joined";
-"Added"="Added";
+"Added" = "Added";
 "Post Success" = "Post Success";
 "Post Failed" = "Post Failed";
 "Welcome to" = "Welcome to";
 "Joined successful!" = "Joined successful!";
 "Join IM failed!" = "join IM failed!";
-"Notice Posted"="Notice Posted";
+"Notice Posted" = "Notice Posted";
 "Joined" = "Joined";
 "Content prohibited" = "Content prohibited";
 "StartChat" = "Let's chat";
@@ -80,7 +80,6 @@
 "group_details_button_name" = "Group name";
 "group_details_button_description" = "Group description";
 "group_details_button_announcement" = "Group Announcement";
-"group_details_switch_public" = "Set public";
 "group_details_extend_button_transfer" = "Transfer owner";
 "group_mention_title" = "Mention";
 "group_details_extend_button_disband" = "Disband group";
@@ -148,7 +147,7 @@
 "Group were destroyed." = "Group were destroyed.";
 "thread_name" = "Thread Name";
 "topic_members" = "Thread Members";
-" messages" = " messages";
+" messages " = " messages";
 "AudioCall" = "Call";
 "VideoCall" = "Video";
 "SearchMessages" = "Search";

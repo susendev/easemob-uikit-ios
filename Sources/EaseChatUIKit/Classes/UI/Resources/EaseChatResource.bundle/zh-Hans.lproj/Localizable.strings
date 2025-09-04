@@ -1,26 +1,18 @@
-"Send"="发送";
+"Send" = "发送";
 "Sent" = "已发送";
 "Joined"="已加入";
 "Search" = "搜索";
-"Added"="添加了";
-
+"Added" = "添加了";
 "Post Success" = "发布成功";
 "Post Failed" = "发布失败";
-
-
-"Welcome to " = "欢迎来到";
-
+"Welcome to" = "欢迎来到";
 "Joined successful!" = "加入成功";
 "Join IM failed!" = "加入聊天室失败";
-
-"Notice Posted"="公告已发布";
-
+"Notice Posted" = "公告已发布";
 "Joined" = "已加入";
-
 "Content prohibited" = "内容禁止发送";
 "You were kicked out of the chatroom" = "您已经被踢出聊天室";
 "StartChat" = "说点什么";
-
 "message doesn't exist" = "消息不存在";
 "Replying" = "回复 ";
 "Violation options" = "违规选项";
@@ -39,7 +31,6 @@
 "barrage_long_press_menu_copy" = "复制";
 "barrage_long_press_menu_cancel" = "取消";
 "barrage_long_press_menu_pin" = "置顶";
-
 "report_button_click_menu_button_cancel" = "取消";
 "Confirm" = "确认";
 "Editing" = "编辑中";
@@ -47,13 +38,9 @@
 "Translated" = "已翻译";
 "Mentioned" = "有人@你";
 "recalled a message" = "撤回了一条消息";
-
 "Chat" = "发消息";
-
 "participant_list_title" = "成员列表";
-
 "Ban List" = "禁言列表";
-
 "violation_reason_1" = "不受欢迎的商业内容或垃圾内容";
 "violation_reason_2" = "色情或露骨内容";
 "violation_reason_3" = "虐待儿童";
@@ -72,7 +59,6 @@
 "message doesn't exist" = "消息不存在!";
 "Add Contact" = "添加联系人";
 "Copied" = "已复制";
-
 "Create" = "创建";
 "Contact" = "联系人";
 "Add" = "添加";
@@ -80,13 +66,10 @@
 "NewRequestDetail" = "请求添加您为好友";
 "Groups" = "群聊";
 "NewRequest" = "新请求";
-
 "contactID" = "通过ID添加联系人";
-
 "new_chat_button_click_menu_addcontacts" = "添加联系人";
 "new_chat_button_click_menu_creategroup" = "创建群组";
 "new_chat_button_click_menu_selectcontacts" = "发起会话";
-
 "remove_participants" = "删除成员";
 "group_delete_members_alert" = "你确定删除这";
 "group members" = "群成员";
@@ -114,11 +97,8 @@
 "New Message" = "新消息";
 "New Request" = "新请求";
 "Joined Groups" = "群组";
-
-
 "add_contacts_subtitle" = "通过用户ID添加联系人";
 "add_group_members" = "添加群成员";
-
 "conversation_left_slide_menu_delete" = "删除";
 "conversation_left_slide_menu_pin" = "置顶";
 "conversation_left_slide_menu_unpin" = "取消置顶";
@@ -126,51 +106,32 @@
 "conversation_left_slide_menu_unmute" = "关闭通知";
 "conversation_right_slide_menu_read" = "标记已读";
 "conversation_right_slide_menu_more" = "更多";
-
 "contact_details_switch_donotdisturb" = "消息免打扰";
 "contact_details_switch_block" = "拉黑";
 "contact_details_button_clearchathistory" = "清空聊天记录";
-
 "contact_details_extend_button_delete" = "删除联系人";
 "contact_details_extend_button_delete_alert_subtitle" = "删除联系人同时删除历史消息";
 "contact_details_extend_button_delete_alert_button_confirm" = "确定";
 "contact_details_extend_button_delete_alert_button_cancel" = "取消";
 "group_details_extend_button_disband_alert_button_cancel" = "取消";
 "contact_details_extend_button_cancel" = "取消";
-
 "remaining..." = "后停止";
-
-
 "permissions disable" = "权限不可用";
-
 "camera_disable" = "相机权限未开启";
-
 "photo_disable" = "相册权限未开启";
-
 "file_disable" = "文件权限未开启";
-
 "input_extension_menu_photo" = "相册";
-
 "input_extension_menu_camera" = "相机";
-
 "input_extension_menu_file" = "文件";
-
 "input_extension_menu_contact" = "个人名片";
-
 "remaining" = "后停止";
-
 "Record" = "录音";
-
 "Recording" = "正在录音";
-
 "Play" = "播放";
-
 "Playing" = "正在播放";
-
 "Loading..." = "加载中...";
 "Share Contact" = "分享联系人";
 "Sharing contact?" = "确认分享联系人?";
-
 "[unknown]" = "[未知]";
 "[Image]" = "[图片]";
 "[Audio]" = "[音频]";
@@ -191,13 +152,11 @@
 "VideoCall" = "视频通话";
 "SearchMessages" = "搜索消息";
 " to " = "给";
-
 "UserId" = "ID:";
 "Chats" = "会话";
 "Typing..." = "正在输入中...";
 "block_list" = "黑名单";
 "block alert" = "确认拉黑联系人";
-
 "block" = "拉黑";
 "unblock" = "解除拉黑";
 "block contact" = "拉黑联系人";
@@ -205,19 +164,12 @@
 "Sticky Message" = "置顶消息";
 "pinned a message" = "置顶了一条消息";
 "unpinned a message" = "移除了一条置顶消息";
-
 "Parsing..." = "解析中...";
-
 "Pin Messages" = "条置顶消息";
 "succeeded" = "成功";
 "failed" = "失败";
 "No pinned messages" = "暂无置顶消息";
 "Please select greater than one message." = "请至少选择一条消息";
-
-
-
 "Delete Conversation Alert" = "删除此会话?";
-
 "Delete Message Alert" = "删除此消息?";
-
 "Delete warning" = "删除后不可恢复";
