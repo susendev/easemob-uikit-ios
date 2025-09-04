@@ -173,3 +173,7 @@
 "Delete Conversation Alert" = "删除此会话?";
 "Delete Message Alert" = "删除此消息?";
 "Delete warning" = "删除后不可恢复";
+
+"group_details_extend_button_disband_alert_button_confirm" = "确认";
+"group_details_extend_button_leave_alert_button_confirm" = "确认";
+"group_details_extend_button_leave_alert_button_cancel" = "取消";

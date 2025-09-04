@@ -147,7 +147,7 @@
 "Group were destroyed." = "El chat grupal fue destruido";
 "thread_name" = "Nombre del tema";
 "topic_members" = "Miembros del tema";
-" messages " = "mensaje(s)";
+" messages" = "mensaje(s)";
 "AudioCall" = "Llamada de audio";
 "VideoCall" = "Llamada por vídeo";
 "SearchMessages" = "Buscar mensajes";
@@ -173,3 +173,6 @@
 "Delete Conversation Alert" = "¿Eliminar esta conversación?";
 "Delete Message Alert" = "¿Eliminar este mensaje?";
 "Delete warning" = "Eliminación irreversible";
+"group_details_extend_button_disband_alert_button_confirm" = "Confirmar";
+"group_details_extend_button_leave_alert_button_confirm" = "Confirmar";
+"group_details_extend_button_leave_alert_button_cancel" = "Cancelar";

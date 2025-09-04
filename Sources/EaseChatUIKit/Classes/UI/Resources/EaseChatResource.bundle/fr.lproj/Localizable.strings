@@ -147,7 +147,7 @@
 "Group were destroyed." = "Le groupe a été détruit";
 "thread_name" = "Nom du sujet";
 "topic_members" = "Membres du sujet";
-" messages " = "message(s)";
+" messages" = "message(s)";
 "AudioCall" = "Appel audio";
 "VideoCall" = "Appel vidéo";
 "SearchMessages" = "Rechercher des messages";
@@ -173,3 +173,6 @@
 "Delete Conversation Alert" = "Supprimer cette conversation ?";
 "Delete Message Alert" = "Supprimer ce message ?";
 "Delete warning" = "Suppression irréversible";
+"group_details_extend_button_disband_alert_button_confirm" = "Confirmer";
+"group_details_extend_button_leave_alert_button_confirm" = "Confirmer";
+"group_details_extend_button_leave_alert_button_cancel" = "Annuler";

@@ -147,7 +147,7 @@
 "Group were destroyed." = "Gruppenchat wurde gelöscht";
 "thread_name" = "Themenname";
 "topic_members" = "Themenmitglieder";
-" messages " = "Nachrichten";
+" messages" = "Nachrichten";
 "AudioCall" = "Sprachanruf";
 "VideoCall" = "Videoanruf";
 "SearchMessages" = "Nachrichten suchen";
@@ -173,3 +173,7 @@
 "Delete Conversation Alert" = "Diese Unterhaltung löschen?";
 "Delete Message Alert" = "Diese Nachricht löschen?";
 "Delete warning" = "Nach dem Löschen nicht wiederherstellbar";
+
+"group_details_extend_button_disband_alert_button_confirm" = "Bestätigen";
+"group_details_extend_button_leave_alert_button_confirm" = "Bestätigen";
+"group_details_extend_button_leave_alert_button_cancel" = "Abbrechen";
